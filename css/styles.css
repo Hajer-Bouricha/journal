@@ -107,3 +107,10 @@ header ul li {
   padding:1rem 1.5rem;
 
 }
+/* NAV */
+nav{
+  display: flex;
+  justify-content: space-between;
+  background: #fff;
+  padding: 1rem;
+}
